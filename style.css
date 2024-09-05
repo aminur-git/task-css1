@@ -1,0 +1,31 @@
+p{
+    border: 1px solid cadetblue;
+    box-shadow: 5px 5px rgba(51, 138, 153, 0.459);
+    padding: 10px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgba(0, 255, 255, 0.116);
+}
+
+.footer{
+    text-align: center;
+    text-transform: capitalize;
+    font-style: normal;
+    font-size: 80px;
+    background-image: url(images/cover\ \(2\).png);
+    height: auto;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+    color: rgb(17, 59, 95);
+}
+
+.courtesy{
+    text-align: center;
+}
+
+.read-more{
+    color: rgb(65, 89, 109);
+    text-decoration: none;
+    font-weight: bold;
+}
